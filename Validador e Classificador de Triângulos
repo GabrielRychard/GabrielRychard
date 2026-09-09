@@ -1,0 +1,127 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPstRbNbjrO4b6CXc36t4qn",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/GabrielRychard/GabrielRychard/blob/main/Validador%20e%20Classificador%20de%20Tri%C3%A2ngulos\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 4,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "v2keetMaOIHg",
+        "outputId": "2b824c13-733e-4343-f279-23e28a745cde"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Digite a primeira medida: 15\n",
+            "Digite a segunda medida: 25\n",
+            "Digite a terceira medida: 33\n",
+            "\n",
+            "As medidas formam um triângulo! \n"
+          ]
+        }
+      ],
+      "source": [
+        "def triangulo(a, b, c):\n",
+        "  return a < b + c and b < a + c and c < a+ b\n",
+        "\n",
+        "def main():\n",
+        "  a = float(input('Digite a primeira medida: '))\n",
+        "  b = float(input('Digite a segunda medida: '))\n",
+        "  c = float(input('Digite a terceira medida: '))\n",
+        "\n",
+        "  if triangulo(a, b, c):\n",
+        "    print('\\nAs medidas formam um triângulo! ')\n",
+        "  else:\n",
+        "    print('\\nAs medidas NÃO formam um triângulo! ')\n",
+        "if __name__ == '__main__':\n",
+        "  main()"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def triangulo(a,b,c):\n",
+        "  return a < b + c and b < a + c and c < a + b\n",
+        "\n",
+        "def tipo_triangulo(a,b,c):\n",
+        "  if a == b == c:\n",
+        "    return 'Equilátero'\n",
+        "  elif a == b or a == c or b == c:\n",
+        "    return 'Isóceles'\n",
+        "  else:\n",
+        "    return 'Escaleno'\n",
+        "def main():\n",
+        "  a = float(input('Digite a primeira medida: '))\n",
+        "  b = float(input('Digite a segunda medida: '))\n",
+        "  c = float(input('Digite a terceira medida: '))\n",
+        "\n",
+        "  if triangulo(a,b,c):\n",
+        "    tipo = tipo_triangulo(a,b,c)\n",
+        "    print(f'As medidas formam um triângulo do tipo: {tipo}.')\n",
+        "  else:\n",
+        "    print('As medidas NÃO formam um triângulo.')\n",
+        "\n",
+        "if __name__ == '__main__':\n",
+        "  main()"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "qYCLmYM1a59I",
+        "outputId": "b1d82619-8f9e-403b-9a73-19361fd7ecb0"
+      },
+      "execution_count": 6,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Digite a primeira medida: 10\n",
+            "Digite a segunda medida: 29\n",
+            "Digite a terceira medida: 30\n",
+            "As medidas formam um triângulo do tipo: Escaleno.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "xbjOmhuFbo7X"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
