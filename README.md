@@ -22,6 +22,12 @@ Estou em busca de oportunidades de estágio ou de aprendizado na área de tecnol
 
 #Python #GTI #Fatec #Programação #TecnologiaDaInformação #Estágio "[GabrielRychard_](https://www.instagram.com/gabrielrychard_/)", aqui está meu instagram e também a seguir meu canal no youtube, que futuramente irei postar alguns projetos, caso queiram e gostem de tecnologia me sigam lá "[meu canal no Youtube](https://www.youtube.com/@gabrielrychard8665)".
 
+## 📂 Meus projetos
+
+### 💰 [Controle de Gastos](https://github.com/GabrielRychard/Controle-de-Gastos)
+App em Python sincronizado com uma planilha Excel para controle financeiro pessoal: salário, despesas, gráficos, metas e conquistas.
+
+
 <p align="left">
     <a href="https://www.youtube.com/@gabrielrychard8665">
         <img 
