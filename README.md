@@ -2,7 +2,25 @@
 
 **Estudante de GTI**
 
-Me chamo Gabriel Rychard Oliveira de Jesus, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio na EE José Silva Junior em SP. Atualmente, estou cursando Gestão da Tecnologia da Informação. Comecei minha paixão por tecnologia desde os meus 12 anos de idade e quero trabalhar na Área de TI. Atualmente estou aprendendo Css e Html por conta e Python na Faculdade. "[GabrielRychard_](https://www.instagram.com/gabrielrychard_/)", aqui está meu instragam e também a seguir meu canal no youtube, que futuramente irei postar alguns projetos, caso queiram e gostem de tecnologia me sigam lá "[meu canal no Youtube](https://www.youtube.com/@gabrielrychard8665)".
+Estudante de Gestão da Tecnologia da Informação (GTI) na Fatec, atualmente no 2º semestre, e em plena jornada de aprendizado em programação.
+
+Comecei a programar há pouco tempo, e o que mais me motiva é aprender construindo. Em vez de ficar só na teoria, escolho um problema ou uma ideia e desenvolvo um projeto em Python para resolvê-la. Com isso já estou praticando lógica de programação, organização de código, interfaces gráficas e integração com planilhas.
+
+Alguns projetos que estou desenvolvendo:
+
+🔹 Controle de gastos em Python integrado ao Excel: cadastro de salário e despesas, gráficos, metas financeiras e sistema de conquistas. Nasceu de uma necessidade real minha: controlar melhor meus gastos mensais.
+
+🔹 Assistente de voz estilo Jarvis: controle do computador por comandos de voz, com confirmação antes de cada ação.
+
+🔹 Jogo de RPG de turnos com Tkinter: três classes de personagens com habilidades próprias, hordas de monstros e um chefe final.
+
+🔹 Trabalho acadêmico de regularização de licenças de sistemas operacionais, com inventário de TI e proposta de adequação.
+
+Meu foco agora é evoluir em Python, aprender a criar sites e aplicativos, e dominar Git e GitHub para documentar melhor meu trabalho.
+
+Estou em busca de oportunidades de estágio ou de aprendizado na área de tecnologia, onde eu possa contribuir, crescer e aprender com profissionais mais experientes. Se quiser trocar ideias ou indicar caminhos, vou adorar conversar!
+
+#Python #GTI #Fatec #Programação #TecnologiaDaInformação #Estágio "[GabrielRychard_](https://www.instagram.com/gabrielrychard_/)", aqui está meu instagram e também a seguir meu canal no youtube, que futuramente irei postar alguns projetos, caso queiram e gostem de tecnologia me sigam lá "[meu canal no Youtube](https://www.youtube.com/@gabrielrychard8665)".
 
 <p align="left">
     <a href="https://www.youtube.com/@gabrielrychard8665">
